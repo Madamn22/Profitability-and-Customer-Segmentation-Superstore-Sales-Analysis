@@ -27,7 +27,8 @@ The goal was to:
 
 ## Sample Visuals
 *<img width="380" height="200" alt="image" src="https://github.com/user-attachments/assets/485cd536-d158-4a38-93fc-188e996e99de" />
-*<img width="400" height="245" alt="image" src="https://github.com/user-attachments/assets/25eb3543-78be-4eb8-9ac5-5a442d5a0814" />
+*<img width="319" height="339" alt="image" src="https://github.com/user-attachments/assets/4e3e6c18-76e8-4b74-ae60-6433cd9ba263" />
+
 
 
 ## 🔗 Tableau Dashboard
