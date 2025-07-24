@@ -3,6 +3,7 @@ Third Semester Business Analytics Project
 
 
 **Tools used**: Excel • Tableau • Python
+
 **Techniques**: Descriptive Analysis • Profitability Trends • Customer Segmentation
 
 ## Project Overview
