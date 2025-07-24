@@ -26,8 +26,8 @@ The goal was to:
 - Visualizations helped identify **underperforming customer segments** for targeted strategy
 
 ## Sample Visuals
-*<img width="380" height="200" alt="image" src="https://github.com/user-attachments/assets/485cd536-d158-4a38-93fc-188e996e99de" />
-*<img width="319" height="339" alt="image" src="https://github.com/user-attachments/assets/4e3e6c18-76e8-4b74-ae60-6433cd9ba263" />
+<img width="580" height="400" alt="image" src="https://github.com/user-attachments/assets/485cd536-d158-4a38-93fc-188e996e99de" />
+<img width="319" height="339" alt="image" src="https://github.com/user-attachments/assets/4e3e6c18-76e8-4b74-ae60-6433cd9ba263" />
 
 
 
